@@ -16,6 +16,6 @@
  - :heart_eyes: If you include at least one emoji in your question, the feedback will
    probably come faster.
 
-### Links
+### Further
 
  - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#AMAs_("Ask_Me_Anything"))
